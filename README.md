@@ -1,4 +1,3 @@
-Got it! You want a **clean, professional GitHub-ready README** without the “Files and Folders to Exclude” section, just the main project description, features, and other relevant sections. Here’s the version:
 
 # Elderly Health Monitoring & Emergency Alert System
 
